@@ -1,16 +1,15 @@
-## Hi there 👋
+# RELX Dubai
 
-<!--
-**relxpods-tech/relxpods-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Genuine RELX pods and devices, delivered across Dubai, Sharjah and Ajman. This profile holds quick reference notes for adult RELX users in the UAE.
 
-Here are some ideas to get you started:
+## What's here
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Which pod line fits which device
+- Short notes on the Infinity 2 and Artisan devices
+- Pod Pro and Pod Pro 2 basics
+
+## Store
+
+Shop the full range at [RELX Dubai](https://relxpod.ae).
+
+*Adults aged 18 and over only. Products contain nicotine.*
